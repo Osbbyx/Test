@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">Practica de Seleccion</string>
+    <string name="question">Preguntas</string>
+    <string name="check">Seleccionada</string>
+    <string name="correct">Muy Bien!</string>
+    <string name="incorrect">Incorrecto</string>
+    <string name="next">Siguiente</string>
+    <string name="finish">Terminar</string>
+    <string name="prev">Anterior</string>
+    <string name="results">Resultado</string>
+    <string name="start_over">Comenzar De Nuevo</string>
+
+    <array name="all_questions">
+        <item>El mayor problema cosmológico, es:;*resolver el origen y la forma del Universo.;delinear la geometría de los agujeros negros.;explicar el enigma de los seres vivos en otros sistemas.;cuantificar las estrellas de la Vía Láctea.</item>
+        <item>Cuando el núcleo de una superestrella se comprime  totalmente hasta desaparecer, se transforma a un (a):;Estrella neutrónica;Estrella fugaz;Supernova;*Agujero negro</item>
+        <item>¿Qué son las nebulosas?;Son restos de un agujero negro de baja intensidad;Son las galaxias irregulares en los entornos de la Vía Láctea;Son las emanaciones de un quasar de tercera generación;*Son gases y polvos cósmicos concentrados </item>
+        <item>La principal teoría que explica el origen y la evolución del sistema solar:;*Nebular.;de Big Bang.;del Universo oscilante.;de las cuerdas</item>
+        <item>La estrella más próxima a la Tierra es:;*el Sol.;Próxima Centauro.;Sirio.;Aldebarán.</item>
+    </array>
+</resources>
